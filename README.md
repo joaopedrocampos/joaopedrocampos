@@ -7,10 +7,10 @@
 
 <div float="left">
   <a href="https://github.com/joaopedrocampos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopedrocampos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopedrocampos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   </a>
   
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/xT3i1acWS2AQRKHgZi/giphy.gif" />
+  <img alt="GIF" src="https://media.giphy.com/media/xT3i1acWS2AQRKHgZi/giphy.gif" />
 <div>
 
 ## Software Engineer :office_worker: 
