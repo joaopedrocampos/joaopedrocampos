@@ -1,17 +1,16 @@
 # João Pedro Campos Silva :man_technologist:
-<div>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/xT3i1acWS2AQRKHgZi/giphy.gif" />
-</div>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/joaopedrocampos)](https://github.com/joaopedrocampos)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaopedrocampossilva/)](https://www.linkedin.com/in/joaopedrocampossilva/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaopedrocampossilva97@gmail.com)](mailto:joaopedrocampossilva97@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1d7ef2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/joaopedrcampos)
 
-<div>
+<div float="left">
   <a href="https://github.com/joaopedrocampos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopedrocampos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   </a>
+  
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/xT3i1acWS2AQRKHgZi/giphy.gif" />
 <div>
 
 ## Software Engineer :office_worker: 
