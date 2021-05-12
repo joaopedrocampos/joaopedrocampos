@@ -1,5 +1,7 @@
 # João Pedro Campos Silva :man_technologist:
+<div>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/xT3i1acWS2AQRKHgZi/giphy.gif" />
+</div>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/joaopedrocampos)](https://github.com/joaopedrocampos)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaopedrocampossilva/)](https://www.linkedin.com/in/joaopedrocampossilva/)
