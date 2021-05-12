@@ -6,11 +6,16 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaopedrocampossilva97@gmail.com)](mailto:joaopedrocampossilva97@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1d7ef2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/joaopedrcampos)
 
+<div>
+  <a href="https://github.com/joaopedrocampos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopedrocampos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  </a>
+<div>
+
 ## Software Engineer :office_worker: 
 
 - Currently working at **[@luizalabs](https://github.com/luizalabs)**
 
-## Favorite technologies :octocat:
 [<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />](https://nodejs.org/en/)
 [<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />](https://www.typescriptlang.org/)
 [<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />](https://www.python.org/)
