@@ -6,14 +6,8 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1d7ef2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/joaopedrcampos)
 
 <div float="left">
-  <a href="https://github.com/joaopedrocampos">
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopedrocampos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  </a>
-  
-  <img float="left" alt="GIF" src="https://media.giphy.com/media/xT3i1acWS2AQRKHgZi/giphy.gif" />
-<div>
-
-## Software Engineer :office_worker: 
+  <div>
+    <h2>Software Engineer :office_worker: </h2>
 
 - Currently working at **[@luizalabs](https://github.com/luizalabs)**
 
@@ -21,3 +15,12 @@
 [<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />](https://www.typescriptlang.org/)
 [<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />](https://www.python.org/)
 [<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />](https://golang.org/)
+
+  <a href="https://github.com/joaopedrocampos">
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopedrocampos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  </a>
+  </div>
+
+  <img alt="GIF" src="https://media.giphy.com/media/xT3i1acWS2AQRKHgZi/giphy.gif" />
+
+</div>
