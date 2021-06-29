@@ -21,6 +21,8 @@
   </a>
   </div>
 
-  <img alt="GIF" src="https://media.giphy.com/media/xT3i1acWS2AQRKHgZi/giphy.gif" />
+  <div style="margin: 100px 100px 100px 100px">
+    <img alt="Hello!" src="https://media.giphy.com/media/xT3i1acWS2AQRKHgZi/giphy.gif" width="400" />
+  </div>
 
 </div>
