@@ -9,7 +9,7 @@
   <div>
     <h2>Software Engineer :office_worker: </h2>
 
-- Currently working at **[@luizalabs](https://github.com/luizalabs)**
+- Currently working at **[@finn-auto](https://github.com/finn-auto)**
 
 [<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />](https://nodejs.org/en/)
 [<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />](https://www.typescriptlang.org/)
