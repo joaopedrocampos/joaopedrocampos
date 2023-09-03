@@ -1,4 +1,4 @@
-# João Pedro Campos Silva :man_technologist:
+# João Pedro Campos Silva 🇧🇷
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/joaopedrocampos)](https://github.com/joaopedrocampos)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaopedrocampossilva/)](https://www.linkedin.com/in/joaopedrocampossilva/)
@@ -7,7 +7,7 @@
 
 <div float="left">
   <div>
-    <h2>Software Engineer :office_worker: </h2>
+    <h2>Software Engineer</h2>
 
 - Currently working at **[@finn-auto](https://github.com/finn-auto)**
 
@@ -20,9 +20,4 @@
   <img width="400" align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopedrocampos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   </a>
   </div>
-
-  <div style="margin: 100px 100px 100px 100px">
-    <img alt="Hello!" src="https://media.giphy.com/media/xT3i1acWS2AQRKHgZi/giphy.gif" width="400" />
-  </div>
-
 </div>
